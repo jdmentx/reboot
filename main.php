@@ -1,0 +1,3 @@
+<?php
+// Main project script
+?>
